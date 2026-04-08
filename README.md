@@ -34,7 +34,9 @@ Power Query (Data Cleaning)
 DAX (Data Analysis Expressions)
 Dashboard Preview
 
-<img width="1919" height="1199" alt="Screenshot 2026-04-09 004828" src="https://github.com/user-attachments/assets/56865ea1-4948-46e7-a891-2726280268fd" />
+<img src="https://github.com/user-attachments/assets/0f5fec1e-9e73-4aab-b837-fc851848f849"
+     alt="Power BI Dashboard"
+     style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); border: 3px solid #4CAF50; max-width: 100%; height: auto;">
 
 
 Insights
