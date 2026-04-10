@@ -63,11 +63,14 @@ Contributing
 
 Contributions are welcome. Feel free to fork the repository and submit improvements.
 
-Contact
-Name: Kalyan Ram A.
+Team:
+Kalyan Ram A
+
+Hema Nandini A
 
 Email: kalyan799ram@gmail.com.
 
 Note
 
 This project focuses on combining data analysis with meaningful storytelling to create real-world impact, especially in the area of public safety.
+Note: Maps are not working due to certain settings issues.
