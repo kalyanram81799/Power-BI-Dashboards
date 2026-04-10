@@ -74,4 +74,4 @@ Note
 
 This project focuses on combining data analysis with meaningful storytelling to create real-world impact, especially in the area of public safety.
 
- Maps are not working due to certain settings issues.
+Note: Maps work without logging in, but after logging in they do not function due to certain settings issues, so those features were removed Updtae those.
