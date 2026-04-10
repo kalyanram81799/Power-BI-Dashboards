@@ -73,4 +73,5 @@ Email: kalyan799ram@gmail.com.
 Note
 
 This project focuses on combining data analysis with meaningful storytelling to create real-world impact, especially in the area of public safety.
-Note: Maps are not working due to certain settings issues.
+
+ Maps are not working due to certain settings issues.
